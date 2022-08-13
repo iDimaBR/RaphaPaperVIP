@@ -1,0 +1,16 @@
+Item:
+  material: PAPER
+  name: "&aAtivador de VIP %vip%"
+  lore:
+    - "&7Clique para virar vip"
+    - "§7TIPO: §f%vip%"
+
+Titles:
+  enabled: true
+  title: "&aATIVAÇÃO VIP"
+  subtitle: "&fO jogador %player% ativou um vip"
+
+VIPS:
+  vip1:
+    name: "&aVIP DIAMANTE"
+    command: "lp user %player% parent set vip_diamante"

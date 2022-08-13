@@ -1,0 +1,7 @@
+name: RaphaPaperVIP
+version: '${project.version}'
+main: com.github.idimabr.RaphaPaperVIP
+prefix: RaphaPaperVIP
+authors: [ iDimaBR ]
+commands:
+  papervip:
